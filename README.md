@@ -1,5 +1,3 @@
-### Hi👋
-
 <!--
 **Asier93/Asier93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Asier</h1>
 <h3 align="center">A fullstack developer from Madrid</h3>
 
-- 😄 Pronouns:He/They
+- 😄 Pronouns:He/him
   
 - 🌱 I’m currently learning **3D, AR and VR experiences**
 
