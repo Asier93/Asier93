@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Asier</h1>
 <h3 align="center">A fullstack developer from Madrid</h3>
 
+- 😄 Pronouns:He/They
+  
 - 🌱 I’m currently learning **3D, AR and VR experiences**
 
 - 👯 I’m looking to collaborate on **immersive and creative projects**
 
-- 👨‍💻 All of my projects are available at [[link portafolio]]([link portafolio])
+- 👨‍💻 All of my projects are available at ([link portafolio])
 
 - 📫 How to reach me **asier.dev93@gmail.com or Linkedin [https://www.linkedin.com/in/asiersanchezp/]**
 
