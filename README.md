@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hi 👋, I'm Asier</h1>
 <h3 align="center">A fullstack developer from Madrid</h3>
 
-- 😄 Pronouns:He/him
+- 😄 Pronouns: He/him
   
 - 🌱 I’m currently learning **3D, AR and VR experiences**
 
@@ -31,12 +30,16 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asiersanchezp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asiersanchezp/" height="30" width="40" /></a>
-<a href="https://discord.gg/mips93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mips93" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/asiersanchezp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/mips93" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="background-color: #ffffff; padding: 10px; border-radius: 5px;">
+<div style="background-color: #ffffff; padding: 10px; border-radius: 5px; display: inline-block;">
   <a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>
@@ -113,6 +116,5 @@ Here are some ideas to get you started:
     <img src="https://seeklogo.com/images/T/three-js-logo-07A32307F1-seeklogo.com.png" alt="three.js" width="40" height="40"/>
   </a>
 </div>
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asier93&theme=tokyonight-duo)](https://git.io/streak-stats)
